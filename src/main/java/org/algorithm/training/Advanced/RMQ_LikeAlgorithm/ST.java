@@ -1,4 +1,4 @@
-package org.algorithm.training.Advanced;
+package org.algorithm.training.Advanced.RMQ_LikeAlgorithm;
 
 public class ST {
     int[] a; // 区间值数组（从1开始）
@@ -43,5 +43,8 @@ public class ST {
     }
 
 
+    public static void main(String[] args) {
+        // POJ3264
+    }
 
 }

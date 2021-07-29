@@ -1,4 +1,4 @@
-package org.algorithm.training.Advanced;
+package org.algorithm.training.Advanced.RMQ_LikeAlgorithm;
 
 // Lowest Common Ancestors 最近公共祖先
 public class LCA {
