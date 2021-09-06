@@ -1,5 +1,7 @@
 package org.algorithm.training.Advanced.RMQ_LikeAlgorithm;
 
+
+// 线段树：管理N个节点需要开辟4*N个节点，此处需要修改
 public class SegmentTree {
     class SegmentTreeImpl {
         public int left;    // 原数组左端点下标
